@@ -48,7 +48,7 @@ module.exports = {
     "no-nested-ternary": 2,
     "no-spaced-func": 2,
     "no-trailing-spaces": 2,
-    "object-curly-spacing": 2,
+    "object-curly-spacing": [2, "always"],
     "semi": [ 2, "always" ],
     "semi-spacing": 2,
     "space-after-keywords": 2,
