@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "@telerik/eslint-config/react",
+  "extends": "./../index.js",
   "ecmaFeatures": {
     "jsx": true
   },
