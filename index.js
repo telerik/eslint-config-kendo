@@ -43,14 +43,13 @@ module.exports = {
     "jsx-quotes": 2,
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
-    "lines-around-comment": 2,
     "max-params": [2, 4],
     "no-multiple-empty-lines": [2, {"max": 2}],
     "no-nested-ternary": 2,
     "no-spaced-func": 2,
     "no-trailing-spaces": 2,
     "object-curly-spacing": 2,
-    "semi": [ 2, "never" ],
+    "semi": [ 2, "always" ],
     "semi-spacing": 2,
     "space-after-keywords": 2,
     "space-before-blocks": 2,
@@ -64,7 +63,6 @@ module.exports = {
     "no-dupe-class-members": 2,
     "no-this-before-super": 2,
     "no-var": 2,
-    "prefer-template": 2,
     "yoda": [2, "never", { "exceptRange": true }]
   }
 };
