@@ -26,7 +26,6 @@ module.exports = {
     "no-invalid-this": 2,
     "no-lone-blocks": 2,
     "no-loop-func": 2,
-    "no-magic-numbers": [2, { "ignore": [ 0, -1 ] }],
     "no-multi-spaces": 2,
     "no-native-reassign": 2,
     "no-new": 2,
