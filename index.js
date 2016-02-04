@@ -38,7 +38,7 @@ module.exports = {
     "camelcase": 2,
     "comma-style": 2,
     "consistent-this": [2, "that"],
-    "indent": [ 2, 2 ],
+    "indent": 2,
     "jsx-quotes": 2,
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
