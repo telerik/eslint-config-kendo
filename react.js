@@ -5,6 +5,7 @@ module.exports = {
   },
   "plugins": [ "react" ],
   "rules": {
+    "jsx-quotes": 2,
     "react/display-name": 0,
     "react/forbid-prop-types": 2,
     "react/jsx-boolean-value": 2,
@@ -18,7 +19,6 @@ module.exports = {
     "react/jsx-no-literals": 0,
     "react/jsx-no-undef": 2,
     "react/jsx-pascal-case": 2,
-    "react/jsx-quotes": 2,
     "react/jsx-sort-prop-types": 2,
     "react/jsx-sort-props": 2,
     "react/jsx-uses-react": 2,
