@@ -1,6 +1,7 @@
 {
     "name": "@telerik/eslint-config",
     "description": "ESLint configuration",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/telerik/eslint-config-kendo.git"
@@ -17,6 +18,9 @@
     "scripts": {
         "test": "echo 'can we lint ourselves somehow?'",
         "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
     },
     "devDependencies": {
         "semantic-release": "^4.3.5"
