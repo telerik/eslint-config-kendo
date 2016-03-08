@@ -1,23 +1,24 @@
 {
-  "name": "@telerik/eslint-config",
-  "description": "ESLint configuration",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/telerik/eslint-config-kendo.git"
-  },
-  "main": "index.js",
-  "keywords": [
-    "eslint",
-    "eslintconfig",
-    "Kendo UI",
-    "React"
-  ],
-  "author": "Telerik",
-  "license": "Apache-2.0",
-  "scripts": {
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
-  },
-  "devDependencies": {
-    "semantic-release": "^4.3.5"
-  }
+    "name": "@telerik/eslint-config",
+    "description": "ESLint configuration",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/telerik/eslint-config-kendo.git"
+    },
+    "main": "index.js",
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "Kendo UI",
+        "React"
+    ],
+    "author": "Telerik",
+    "license": "Apache-2.0",
+    "scripts": {
+        "test": "echo 'can we lint ourselves somehow?'",
+        "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    },
+    "devDependencies": {
+        "semantic-release": "^4.3.5"
+    }
 }
