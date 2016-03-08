@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/%40telerik%2Feslint-config.png)](https://badge.fury.io/js/%40telerik%2Feslint-config)
 
-# eslint-config-kendo
+# Kendo UI ESLint Configuration
 
-An ESLint config repository for Kendo UI.
+A shareable [ESLint config](http://eslint.org/docs/developer-guide/shareable-configs) repository for Kendo UI.
