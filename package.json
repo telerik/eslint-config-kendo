@@ -1,7 +1,6 @@
 {
     "name": "@telerik/eslint-config",
     "description": "ESLint configuration",
-    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/telerik/eslint-config-kendo.git"
