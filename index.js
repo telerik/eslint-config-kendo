@@ -37,7 +37,6 @@ module.exports = {
     "brace-style": [2, "1tbs", { "allowSingleLine": true }],
     "camelcase": 2,
     "comma-style": 2,
-    "consistent-this": [2, "that"],
     "indent": 2,
     "jsx-quotes": 2,
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
@@ -62,6 +61,6 @@ module.exports = {
     "no-dupe-class-members": 2,
     "no-this-before-super": 2,
     "no-var": 2,
-    "yoda": [2, "never", { "exceptRange": true }]
+    "yoda": [2, "never", { "onlyEquality": true }]
   }
 };
