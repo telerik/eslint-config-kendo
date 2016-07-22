@@ -37,7 +37,7 @@ module.exports = {
     "brace-style": [2, "1tbs", { "allowSingleLine": true }],
     "camelcase": 2,
     "comma-style": 2,
-    "indent": 2,
+    "indent": [2, 4, { "SwitchCase": 1 }],
     "jsx-quotes": 2,
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
