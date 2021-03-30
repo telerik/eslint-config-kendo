@@ -1,0 +1,1 @@
+* @telerik/kendo-build-reviewers
